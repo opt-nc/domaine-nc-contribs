@@ -1,6 +1,6 @@
 # domaine-nc-contribs
 
-Cette repository a pour vocation a : 
+Cette repository a pour vocation de : 
 
 - partager des scripts et pratiques permettant d'interagive avec l'[API domaine-nc-api](https://hub.docker.com/r/optnc/domaine-nc-api)
 - remonter de nouveaux besoins ou demandes d'améliorations

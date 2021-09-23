@@ -12,6 +12,7 @@ Cette repository a pour vocation de :
 - [Site officiel DOMAINE.NC](https://www.domaine.nc/)
 - [Scénario KataCoda](https://www.katacoda.com/opt-labs/courses/domaine-nc/discover)
 - [Image Docker](https://hub.docker.com/r/optnc/domaine-nc-api)
+- [API sur RapidAPI](https://rapidapi.com/opt-nc-opt-nc-default/api/domaine-nc/)
 
 # Conclusion
 
